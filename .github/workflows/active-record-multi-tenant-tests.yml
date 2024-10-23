@@ -59,6 +59,8 @@ jobs:
           - active-record-7.0
           - active-record-7.1
           - active-record-7.2
+          - active-record-7.2-793ff00
+          - active-record-7.2-e386779
         citus_version:
           - '10'
           - '11'
